@@ -1,0 +1,616 @@
+@media(max-width:1300px){
+  // Main
+  .home-section {
+    height: auto;
+    .main {
+      height: auto;
+      padding: 50px 50px;
+      
+        .main-first-section  {
+           h1 {
+            font-size: 55px;
+           }
+           .first-section-wave  {
+             height: 26px ;
+             margin-left: 12px;
+             width: 250px;
+           }
+        }
+        .main-second-section {
+          .half-round-image {
+            width: 140px;
+            height: 90px;
+           }
+           h1 {
+            font-size: 55px;
+              .main-effects {
+                .vibrant-wave {
+                  width: 175px;
+                  height: 24px;
+                }
+                .main-effects-wave {
+                  height: 24px;
+                  bottom: 1px;
+                }
+              }
+           }
+        }
+        .main-third-section  {
+          h1 {
+            font-size: 55px;
+          }
+          img {
+            width: 65px;
+            height: 65px;
+          }
+        }
+        .main-forth-section {
+          font-size: 16px;
+        }
+        .main-fifth-section {
+          .buy-template-section  {
+            padding: 16px 14px;
+          }
+        }
+    }
+  }
+  // Explorenow Button Component
+  .explore-now-section  {
+    padding: 16px 14px;
+  }
+  // Layout
+  .layout-section  {
+    height: auto;
+    padding: 60px 50px;
+      .layout-box {
+        width: 242px;
+        height: 170px;
+      } 
+  }
+}
+
+
+@media(max-width:1174px){
+   header {
+    .input-field  {
+      display: none;
+    }
+     
+   
+  }
+ 
+
+}
+
+
+@media(max-width:1065px){
+  header {
+    height: 92px;
+    .header-right-section {
+      .overview-button {
+        font-size: 14px;
+        display: none;
+      }
+      .cart-button  {
+        padding: 9px 10px;
+        font-size: 14px;
+        width: 42px;
+        height: 40px;
+          .cart-number {
+            font-size: 10px;
+          }
+      }
+      .share-button {
+         font-size: 14px;
+         padding: 0px;
+         height: 40px;
+         width: 42px; 
+      }
+      .about-button{
+        font-size: 14px;
+      }
+   }
+  }
+  .courses {
+    .course-title {
+      font-size: 14px;
+    }
+    .course-icon {
+      font-size: 15px;
+    }
+  }
+  .sidebar {
+    font-size: 19px;
+    padding: 14px 15px;
+    top: 18px;
+  }
+  .home-section {
+ 
+    .main {
+
+      padding: 50px 40px;
+      
+        .main-first-section  {
+           h1 {
+            font-size: 45px;
+           }
+           .first-section-wave  {
+             height: 23px ;
+             width: 240px;
+           }
+        }
+        .main-second-section {
+          .half-round-image {
+            width: 100px;
+            height: 90px;
+           }
+           h1 {
+            font-size: 45px;
+              .main-effects {
+                .vibrant-wave {
+                  width: 135px;
+                  height: 19px;
+                }
+                .main-effects-wave {
+                  height: 19px;
+                  bottom: 0px;
+                }
+              }
+           }
+        }
+        .main-third-section  {
+          h1 {
+            font-size: 45px;
+          }
+          img {
+            width: 55px;
+            height: 55px;
+          }
+        }
+        .main-fifth-section {
+          .buy-template-section  .button{
+             padding: 11px 16px;
+             font-size: 13px;
+          }
+        }
+        .explore-now-section .button {
+            padding: 11px 16px;
+            font-size: 14px;
+        }
+    }
+  }
+  .about-button {
+    display: none;
+  }
+}
+
+
+@media(max-width:902px){
+  .home-section {
+    .main {
+        .main-first-section  {
+           h1 {
+            font-size: 40px;
+           }
+           .first-section-wave  {
+             height: 17px ;
+             width: 140px;
+           }
+        }
+        .main-second-section {
+          .half-round-image {
+            width: 80px;
+             object-fit: contain;
+           }
+           h1 {
+            font-size: 40px;
+              .main-effects {
+                .vibrant-wave {
+                  width: 135px;
+                  height: 16px;
+                }
+                .main-effects-wave {
+                  height: 16px;
+                }
+              }
+           }
+        }
+        .main-third-section  {
+          h1 {
+            font-size: 40px;
+          }
+          img {
+            width: 50px;
+            height: 50px;
+          }
+        }
+        .main-fifth-section {
+          .buy-template-section  .button{
+             padding: 11px 16px;
+             font-size: 13px;
+          }
+        }
+        .explore-now-section .button {
+            padding: 11px 16px;
+            font-size: 14px;
+        }
+    }
+  } 
+  .layout-section  {
+    .layout-box {
+      h1 {
+        font-size: 36px;
+      }
+      p {
+        font-size: 14px;
+      }
+    }
+  }
+}
+
+@media(max-width:750px){
+  .home-section {
+    .main {
+        .main-first-section  {
+           h1 {
+            font-size: 35px;
+           }
+           .first-section-wave  {
+             height: 14px ;
+             width: 140px;
+           }
+        }
+        .main-second-section {
+          .half-round-image {
+            width: 70px;
+           }
+           h1 {
+            font-size: 35px;
+              .main-effects {
+                .vibrant-wave {
+                  width: 105px;
+                  height: 12px;
+                }
+                .main-effects-wave {
+                  height: 13px;
+                }
+              }
+           }
+        }
+        .main-third-section  {
+          h1 {
+            font-size: 35px;
+          }
+          img {
+            width: 45px;
+            height: 45px;
+          }
+        }
+        .main-forth-section {
+          font-size: 15px;
+        }
+        .main-fifth-section {
+          .buy-template-section  .button{
+             padding: 11px 16px;
+             font-size: 13px;
+          }
+        }
+        .explore-now-section .button {
+            padding: 11px 16px;
+            font-size: 14px;
+        }
+    }
+  } 
+  .layout-section {
+     flex-direction: column;
+       .layout-box {
+        width: 495px;
+        height: 135px;
+         h1 {
+          font-size: 30px;
+         }
+         p {
+          font-size: 13px;
+          font-weight: 600;
+          width: 300px;
+         }
+       }
+  }
+  header {
+    padding: 0px 25px;
+    .share-button {
+      display: none;
+    }
+    .header-right-section {
+    .cart-button {
+       position: relative;
+       right: 100px;
+       width: 70px;
+       gap: 10px;
+       font-size: 17px;
+       font-weight: 600;
+       background-color: white;
+       margin-bottom: 5px;
+        .cart-number {
+          position: static;
+        }
+    }
+  }
+  }
+}
+
+@media(max-width:683px){
+  .home-section {
+    .main {
+      padding: 50px 30px;
+        .main-first-section  {
+           h1 {
+            font-size: 30px;
+           }
+           .first-section-wave  {
+             height: 14px ;
+             width: 140px;
+           }
+        }
+        .main-second-section {
+          padding: 5px 0px;
+          .half-round-image {
+            width: 60px;
+            height: 65px;
+           }
+           h1 {
+            font-size: 30px;
+              .main-effects {
+                .vibrant-wave {
+                  width: 90px;
+                  height: 10px;
+                }
+                .main-effects-wave {
+                  height: 11px;
+                }
+              }
+           }
+        }
+        .main-third-section  {
+          h1 {
+            font-size: 30px;
+          }
+          img {
+            width: 40px;
+            height: 40px;
+          }
+        }
+        .main-forth-section {
+          font-size: 15px;
+        }
+        .main-fifth-section {
+          .buy-template-section  .button{
+             padding: 11px 16px;
+             font-size: 13px;
+          }
+        }
+        .explore-now-section .button {
+            padding: 11px 16px;
+            font-size: 14px;
+        }
+    }
+  } 
+}
+
+@media(max-width:612px){
+  .home-section {
+    .main {
+        .main-first-section  {
+           h1 {
+            font-size: 25px;
+           }
+           .first-section-wave  {
+             height: 11px ;
+             width: 120px;
+           }
+        }
+        .main-second-section {
+          padding: 2px 0px;
+          .half-round-image {
+            width: 56px;
+            height: 65px;
+           }
+           h1 {
+            font-size: 25px;
+              .main-effects {
+                .vibrant-wave {
+                  width: 72px;
+                  bottom: -1px;
+                  height: 10px;
+                }
+                .main-effects-wave {
+                  height: 10px;
+                  width: 100px;
+                }
+              }
+           }
+        }
+        .main-third-section  {
+          h1 {
+            font-size: 25px;
+          }
+          img {
+            width: 40px;
+            height: 40px;
+          }
+        }
+        .main-forth-section {
+          font-size: 15px;
+        }
+        .main-fifth-section {
+          .buy-template-section  .button{
+             padding: 11px 16px;
+             font-size: 13px;
+          }
+        }
+        .explore-now-section .button {
+            padding: 11px 16px;
+            font-size: 14px;
+        }
+    }
+  } 
+}
+
+
+@media(max-width:537px){
+  header {
+    height: 54px;
+    padding-right: 0px 16px;
+    .thema-home-box  {
+      .thema {
+        font-size: 22px;
+      }
+      .home-button {
+        display: none;
+      }
+    }
+    .header-right-section {
+      width: 60px;
+      .cart-button {
+         
+         right: 100px;
+         width: 80px;
+         height: 34px;
+         gap: 8px;
+         font-size: 17px;
+         font-weight: 600;
+         background-color: white;
+         margin-bottom: 5px;
+          .cart-number {
+            position: static;
+          }
+      }
+    }
+  }
+  .sidebar {
+    font-size: 19px;
+    padding: 8px 8px;
+    top: 7px;
+    border-radius: 9px;
+  }
+  .home-section {
+    .main {
+        
+        .main-third-section  {
+          flex-direction: column;
+          h1 {
+            font-size: 25px;
+            padding-bottom: 10px;
+          }
+          img {
+            width: 40px;
+            height: 40px;
+          }
+        }
+        
+        
+    }
+  } 
+  .layout-section  {
+      .layout-box {
+        width: 360px;
+        height: 130px;
+      } 
+  }
+}
+
+
+@media(max-width:530px){
+  .home-section {
+    .main {
+      padding: 40px 12px ;
+      margin-left: 16px ;
+      margin-right: 16px ;
+        .main-first-section  {
+          
+           .first-section-wave  {
+             height: 11px ;
+             width: 60px;
+           }
+        }
+        .main-second-section {
+        
+          .half-round-image {
+            width: 46px;
+            height: 65px;
+            margin-left: 8px;
+           }
+        }
+        
+    }
+  } 
+}
+
+
+@media(max-width:429px){
+  header {
+    padding: 0px;
+    .header-right-section {
+      .cart-button {
+        right: 74px;
+      }
+    }
+  }
+  .sidebar {
+    right: 12px;
+  }
+
+  .home-section {
+    .main {
+        .main-first-section  {
+           h1 {
+            font-size: 20px;
+           }
+           .first-section-wave  {
+             height: 7px ;
+             width: 60px;
+           }
+        }
+        .main-second-section {
+          
+          
+           h1 {
+            font-size: 20px;
+              .main-effects {
+                .vibrant-wave {
+                  width: 54px;
+                  
+                  height: 7px;
+                }
+                .main-effects-wave {
+                  height: 7px;
+                 
+                }
+              }
+           }
+        }
+        .main-third-section  {
+          h1 {
+            font-size: 20px;
+          }
+          img {
+            width: 40px;
+            height: 40px;
+          }
+        }
+        .main-forth-section {
+          font-size: 15px;
+        }
+        .main-fifth-section {
+          .buy-template-section  {
+             padding: 0px;
+           
+          }
+        }
+        .explore-now-section   {
+            padding: 0px;
+            
+        }
+    }
+  }
+}
